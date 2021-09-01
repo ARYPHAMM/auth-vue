@@ -1,1 +1,1 @@
-# Simple ScrollSpy
+# Auth for vue
